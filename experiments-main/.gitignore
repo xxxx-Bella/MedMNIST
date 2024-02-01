@@ -1,7 +1,4 @@
-# User-defined
-tmp*
 .DS_Store
-.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -133,7 +130,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-# Experiment outputs
-experiments-main/MedMNIST2D/outputs/
-experiments-main/weights/
+# 
+weights/
